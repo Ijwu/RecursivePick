@@ -1,0 +1,4 @@
+Recursive mining for Terraria/TShock
+
+Click on a block and all like blocks near it will be affected, as will all like blocks near the next affected one and so on.
+Works on walls and wires, too.
